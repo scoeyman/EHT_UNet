@@ -1,0 +1,11 @@
+numpy
+pandas
+scipy
+scikit-image
+matplotlib
+tensorflow>=2.9.0
+keras
+opencv-python
+Pillow
+scikit-learn
+openpyxl
